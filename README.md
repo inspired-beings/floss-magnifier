@@ -1,5 +1,7 @@
 # Fossling Magnifier
 
+<img src="assets/icon.svg" alt="Fossling Magnifier icon" width="120">
+
 **See clearly, share nothing.** Fossling Magnifier turns your phone into a comfortable magnifying glass — designed first for low-vision users, handy for everyone.
 
 **🔍 ZOOM THAT WORKS FOR YOU**
